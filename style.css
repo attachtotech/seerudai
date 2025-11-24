@@ -207,7 +207,8 @@ nav a:hover::after {
 .btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 14px 35px rgba(37, 99, 235, 0.45);
-  background: linear-gradient(135deg, #4f46e5, var(--accent));
+  background: green;
+  color: white;
 }
 
 .btn:hover img{
